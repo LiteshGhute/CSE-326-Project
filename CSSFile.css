@@ -1,0 +1,70 @@
+.body{
+    
+    background-color: #E6E6FA;
+
+}
+
+#header{
+    background-color:#4B0082;
+    height: 50px;
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    color:azure;
+}
+
+.menu{
+    
+    background-color:#F0F8FF;
+    padding: 6px 0 6px 40px;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 19px;
+    font-family:serif;
+    color: black;
+    font-weight: 500;
+}
+.menu a:hover{
+    color: darkmagenta;
+}
+
+.footer{
+    background-color:#F0F8FF;
+    padding: 5px 50px 5px 50px;
+}
+.Contactdiv1{
+    background-color:#F5F5F5;
+    color:black;
+    width: 400px;
+    height:590px;
+    background-position: "left";
+    font-family:cursive;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    box-shadow: 10px;
+    border: 2px solid darkblue;
+    border-radius: 19px;
+    border-right-width: thick;
+    
+}
+
+.form{
+    background-color:#F0FFF0;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    width: 400px;
+    height:555px;
+    float: right;
+    right: 100px;
+}
+.formStyle{
+    font-family:cursive;
+    font-size: 25px;
+    font-weight: bold;
+    color: #4B0082;
+}
